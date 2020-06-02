@@ -6,17 +6,25 @@ let noClick = false;
 
 const COLORS = [
   "red",
+  "yellow",
+  "brown",
   "blue",
   "green",
   "orange",
   "purple",
   "pink",
+  "gray",
+  "black",
   "red",
+  "yellow",
+  "brown",
   "blue",
   "green",
   "orange",
   "purple",
   "pink",
+  "gray",
+  "black",
 ];
 
 // here is a helper function to shuffle an array
